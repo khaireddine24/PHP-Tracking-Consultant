@@ -1,0 +1,129 @@
+body{
+    background-image: linear-gradient(75deg,#d64c7f,#ee4758 50%);
+    
+}
+.bl{
+    background-image: url("../assets/mission.png");
+    width: 1000px;
+    height: 600PX;
+    position: relative;
+    left: 260px;
+    top: 75px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 40px;
+}
+.r{
+    position: absolute;
+    left: 500px;
+    top: 75px;
+    font-family: cursive;
+}
+.kk{
+    position: absolute;
+    left: 420px;
+    top: 220px;
+    width: 250PX;
+    }
+.rr{
+position: absolute;
+left: 410px;
+top: 180px;
+}
+.z{
+    position: absolute;
+    left: 420px;
+    top: 220px;
+    width: 550PX;
+    }
+    .zz{
+    position: absolute;
+    left: 410px;
+    top: 180px;
+    }
+    .jj{
+        position: absolute;
+        left: 420px;
+        top: 300px;
+        width: 250PX;
+        }
+        .j{
+        position: absolute;
+        left: 410px;
+        top: 260px;
+        }
+        .hh{
+            position: absolute;
+            left: 720px;
+            top: 300px;
+            width: 250PX;
+            }
+            .h{
+            position: absolute;
+            left: 710px;
+            top: 260px;
+            }
+            .ll{
+                position: absolute;
+                left: 420px;
+                top: 380px;
+                width: 250PX;
+                }
+                .l{
+                position: absolute;
+                left: 410px;
+                top: 340px;
+                }
+                .oo{
+                    position: absolute;
+                    left: 720px;
+                    top: 380px;
+                    width: 250PX;
+                    }
+                    .o{
+                    position: absolute;
+                    left: 710px;
+                    top: 340px;
+                    }
+                
+                    .dd{
+                        position: absolute;
+                        left: 420px;
+                        top: 460px;
+                        width: 250PX;
+                        }
+                        .d{
+                        position: absolute;
+                        left: 410px;
+                        top: 420px;
+                        }
+                        .tt{
+                            position: absolute;
+                            left: 720px;
+                            top: 460px;
+                            width: 250PX;
+                            }
+                            .t{
+                            position: absolute;
+                            left: 710px;
+                            top: 420px;
+                            }
+                            .ww{
+                                position: absolute;
+                                left: 420px;
+                                top: 540px;
+                                width: 250PX;
+                                }
+                                .w{
+                                position: absolute;
+                                left: 410px;
+                                top: 500px;
+                                }
+                                .g{
+                                    position: absolute;
+                                    left: 720px;
+                                    top: 540px;
+                                    width: 250PX;
+                                    background-color: #E74B4D;
+                                    }
