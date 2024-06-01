@@ -40,6 +40,7 @@ class TransferController extends Connexion
             SELECT transfers.*, consultants.*
             FROM transfers
             JOIN consultants ON transfers.consultant_id = consultants.consultant_id
+            JOIN hr_agents ON transfers.hr_agent_id = hr_agents.hr_agent_id
         ";
         $stmt = $this->pdo->query($query);
         return $stmt->fetchAll(PDO::FETCH_ASSOC);

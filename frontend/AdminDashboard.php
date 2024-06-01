@@ -38,7 +38,7 @@ if ($admin && $admin->rowCount() > 0) {
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="css/styleDash.css">
-
+    <link rel="icon" href="./assets/AdminRo.png"/>
 	<title>AdminDashboard</title>
     <script>
         function filterTable() {
@@ -73,13 +73,13 @@ if ($admin && $admin->rowCount() > 0) {
 </head>
 <body>
 	<section id="sidebar">
-		<a href="#" class="brand">
+		<a href="AdminDashboard.php" class="brand">
 			<i class='bx bxs-smile'></i>
 			<span class="text">AdminDashboard</span>
 		</a>
 		<ul class="side-menu top">
 			<li class="active">
-				<a href="#">
+				<a href="AdminDashboard.php">
 					<i class='bx bxs-dashboard' ></i>
 					<span class="text">
                     Dashboard

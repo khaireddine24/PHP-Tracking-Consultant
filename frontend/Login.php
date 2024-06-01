@@ -27,6 +27,7 @@ if ($_SERVER["REQUEST_METHOD"] == 'POST' && isset($_POST["connect"])) {
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Login Form</title>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+<link rel="icon" href="./assets/AdminRo.png"/>
 <link rel="stylesheet" href="css/login.css"/>
 </head>
 <body>

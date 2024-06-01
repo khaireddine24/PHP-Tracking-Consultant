@@ -29,6 +29,7 @@ if ($_SERVER["REQUEST_METHOD"] == 'POST' && isset($_POST["connect"])) {
 <title>LoginAgent Form</title>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 <link rel="stylesheet" href="css/login.css"/>
+<link rel="icon" href="./assets/AgentRo.png"/>
 </head>
 <body>
 <div class="container login-container">

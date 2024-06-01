@@ -50,6 +50,7 @@ if (isset($_GET['id'])) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Settings Page</title>
+    <link rel="icon" href="./assets/ConsRo.png"/>
     <link rel="stylesheet" href="css/settings.css">
     <style>
         .settings-container {
