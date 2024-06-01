@@ -75,12 +75,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST["AddC"])) {
 
             <div class="mb-3">
                 <label for="mdp" class="form-label">Password:</label>
-                <input type="text" id="mdp" name="mdp" class="form-control" required>
+                <input type="password" id="mdp" name="mdp" class="form-control" required>
             </div>
             
             <div class="mb-3">
                 <label for="cmdp" class="form-label">Confirm Password:</label>
-                <input type="text" id="cmdp" name="cmdp" class="form-control" required>
+                <input type="password" id="cmdp" name="cmdp" class="form-control" required>
             </div>
 
 
